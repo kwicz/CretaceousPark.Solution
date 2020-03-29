@@ -1,0 +1,14 @@
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.deps.json
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.runtimeconfig.json
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.runtimeconfig.dev.json
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.dll
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.pdb
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.csprojAssemblyReference.cache
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.csproj.CoreCompileInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.RazorAssemblyInfo.cache
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.RazorAssemblyInfo.cs
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.AssemblyInfoInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.AssemblyInfo.cs
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.RazorTargetAssemblyInfo.cache
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.dll
+/Users/katysolovewicz/Projects/epicodus/c#/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.pdb
